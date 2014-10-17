@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[trs:home|Door43 (trs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-trs|d43-trs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-trs/archive/master.zip|d43-trs.zip]]
+
+**Recent Changes**
+{{changes>ns = trs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/trs|Ethnologue data]]
+
